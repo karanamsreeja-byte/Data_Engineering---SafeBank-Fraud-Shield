@@ -123,5 +123,6 @@ data_samples/
 
 ## Author
 
-Karanam Sree
+Karanam Sreeja
+
 Data Engineering Capstone Project
